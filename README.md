@@ -28,6 +28,14 @@ A combinação de uma engenharia de features robusta com a otimização de hiper
 
 Mais importante que o aumento da acurácia geral, foi a melhora significativa na capacidade do modelo de identificar as classes minoritárias ('Alta' e 'Média'), como pode ser visto no `recall` do relatório de classificação e na Matriz de Confusão final.
 
+#### Relatório de Classificação Final
+
+<img width="476" height="199" alt="image" src="https://github.com/user-attachments/assets/008312d2-0cb3-44ab-884c-eb4c22a4b89f" />
+
+#### Matriz de Confusão Final
+
+<img width="552" height="436" alt="image" src="https://github.com/user-attachments/assets/99bd5a6e-dbe8-4e81-9d9c-ef6f93d59f22" />
+
 O modelo final é mais equilibrado e inteligente, demonstrando que o enriquecimento dos dados foi a chave para o sucesso.
 
 ## 5. Conclusões e Próximos Passos
