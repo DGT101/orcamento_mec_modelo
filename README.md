@@ -12,6 +12,8 @@ O desenvolvimento inicial do modelo, utilizando um algoritmo `RandomForestClassi
 
 Diversas abordagens iniciais, como o tratamento de classes desbalanceadas (`class_weight='balanced'`) e o agrupamento de categorias raras, não surtiram o efeito esperado. Isso levou à hipótese de que o problema não residia no algoritmo, mas na falta de features com real poder preditivo.
 
+<img width="476" height="199" alt="image" src="https://github.com/user-attachments/assets/c47fc3cc-ddd7-4f5c-bb96-010808612159" />
+
 ## 3. Metodologia e Engenharia de Features: O Ponto da Virada
 
 A estratégia foi pivotada para uma profunda **Engenharia de Features**, buscando enriquecer o dataset com mais contexto. As seguintes etapas foram cruciais:
